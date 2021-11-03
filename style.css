@@ -1,0 +1,15 @@
+body{
+    padding: 2rem;
+}
+
+.wrap{
+    width: 80%;
+    background-color: gainsboro;
+    margin: auto;
+    border-radius: 1rem;
+}
+.developer{
+    padding: 1rem;
+    text-align: center;
+    
+}
